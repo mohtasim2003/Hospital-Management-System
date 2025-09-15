@@ -1,6 +1,3 @@
-# Hospital-Management-System
-A comprehensive, role-based healthcare management system built with PHP, HTML, CSS, JS and MySQL that streamlines medical operations and improves patient care through specialized dashboards for patients, doctors, and administrators.
-
 🏥 Medicare- Hospital Management System
 
 A comprehensive, role-based healthcare management system built with PHP and MySQL that streamlines medical operations and improves patient care through specialized dashboards for patients, doctors, and administrators.
@@ -10,6 +7,7 @@ A comprehensive, role-based healthcare management system built with PHP and MySQ
 Patients: Book appointments, view medical history, select doctors, manage profiles
 Doctors: Manage appointments, update patient records, create prescriptions, track schedules
 Administrators: Full system control, user management, analytics, and reporting
+
 💻 Technical Features
 Secure authentication system with password hashing
 Responsive design with clean, professional UI
